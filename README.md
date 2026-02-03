@@ -69,4 +69,4 @@ Your current portfolio site — modern and performance-focused
 
 - 🌐 Portfolio: https://yohannes-sisay.vercel.app  
 - 🐙 GitHub: https://github.com/yohannessisay  
-- 📧 Email: yohannessisay90@gmail.com :contentReference[oaicite:11]{index=11}
+- 📧 Email: yohannessisay90@gmail.com
